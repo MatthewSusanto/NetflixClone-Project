@@ -19,7 +19,7 @@ ___
 ___
 ## ``Preview of the application``
 
-- **It is actually responsive**  <br />
+- **It is actually responsive**  <br />  <br />
 ![](https://github.com/MatthewSusanto/resource/blob/master/netflixClone/ezgif.com-crop.gif?r)  <br />
 ___
 

@@ -25,7 +25,7 @@ ___
 
 ## ``What did I learn?``
 
-- JavascriptDOM manipulation
+- Javascript DOM manipulation
 - Create a responsive website without CSS frameworks
 - CSS media query
 

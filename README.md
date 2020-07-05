@@ -1,5 +1,5 @@
 # ``NETFLIX LANDING PAGE``
-**This is a responsive Netflix landing page clone I made using HTML, CSS, Javascript.**  <br />
+**This is a responsive Netflix landing page clone I made using HTML, CSS, and Javascript.**  <br />
   <br />
 **A small project I did to practice on how to create a responsive website without the help of CSS frameworks such as Bootstrap; as well as DOM manipulation with only Javascript**
 ___
